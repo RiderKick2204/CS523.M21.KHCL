@@ -30,8 +30,8 @@
 
 | STT | Họ tên | MSSV | Email  | Github |
 |:----|:-------|:----:|:------:|:------:|
-| 1 | Phạm Phước An | 20520375 | 20520375@gm.uit.edu.vn |
-| 2 | Nguyễn Vũ Dương | 20520465 | 20520465@gm.uit.edu.vn | 
+| 1 | Phạm Phước An | 20520375 | 20520375@gm.uit.edu.vn | https://github.com/RiderKick2204/ |
+| 2 | Nguyễn Vũ Dương | 20520465 | 20520465@gm.uit.edu.vn | https://github.com/duongve13112002 |
 | 3 | Võ Nguyễn Hoài Nam | 20520645 | 20520645@gm.uit.edu.vn | 
 
 
